@@ -1,0 +1,16 @@
+@media (min-width: 768px) {
+  .product-details p {
+    display: none;
+  }
+  .buttons {
+    margin-top: 25px;
+  }
+}
+@media (min-width: 576px) {
+  .headding-section {
+    padding: 20px !important;
+  }
+  .product-section {
+    padding: 20px 0 !important;
+  }
+}
